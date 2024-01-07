@@ -1,6 +1,8 @@
 # Learn Rust
 
-My journey into the [[Rust|Rust programming language]].
+My journey into the [Rust programming language][rust-lang].
+
+[rust-lang]: https://rust-lang.org
 
 ## Journal
 
