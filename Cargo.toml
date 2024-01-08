@@ -1,5 +1,5 @@
 [workspace]
-
 members = [
     "members/hello-world",
+    "members/rust-programming-language",
 ]
