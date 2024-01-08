@@ -6,4 +6,4 @@ My journey into the [Rust programming language][rust-lang].
 
 ## Journal
 
-I'm keeping [a log of my experience](docs/Journal) with rationale, impressions, and so on.
+I'm keeping [a log of my experience](documents/Journal) with rationale, impressions, and so on.
